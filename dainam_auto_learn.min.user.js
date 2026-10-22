@@ -9,8 +9,8 @@
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
 // @connect      generativelanguage.googleapis.com
-// @updateURL    https://raw.githubusercontent.com/<Ten-Github-Cua-Ban>/<Ten-Repo>/main/dainam_auto_learn.min.user.js
-// @downloadURL  https://raw.githubusercontent.com/<Ten-Github-Cua-Ban>/<Ten-Repo>/main/dainam_auto_learn.min.user.js
+// @updateURL    https://raw.githubusercontent.com/nguyenlinh199628-dotcom/EduTech-VN/main/dainam_auto_learn.min.user.js
+// @downloadURL  https://raw.githubusercontent.com/nguyenlinh199628-dotcom/EduTech-VN/main/dainam_auto_learn.min.user.js
 // @run-at       document-start
 // ==/UserScript==
 
